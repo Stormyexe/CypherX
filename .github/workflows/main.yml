@@ -1,0 +1,4 @@
+git clone https://github.com/<your-username>/CypherX.git
+cd CypherX
+npm install
+npm start
